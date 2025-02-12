@@ -33,7 +33,7 @@
 
 ## 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
+<img align="right" width="88" src="https://img.junyyds.cn/img/202502090835882.png" />
 
 <p>&emsp;&emsp;大家好，我是王伟军。</p>
 <p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
